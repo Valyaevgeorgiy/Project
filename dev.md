@@ -1,5 +1,5 @@
-# hey
-
-some update
-
-update with git kraken
+<<<<<<< Updated upstream
+new dev comment
+=======
+dev.md
+>>>>>>> Stashed changes
