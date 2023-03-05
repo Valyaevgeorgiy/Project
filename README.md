@@ -1,2 +1,3 @@
 # Project
-First project on course
+
+Мой первый репозиторий, в котором я учусь работать с СКВ Git & GitHub при помощи классного бесплатного курса от GeekBrains.
